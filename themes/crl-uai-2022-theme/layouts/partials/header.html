@@ -1,0 +1,27 @@
+<section id="header">
+
+    <div id="logo-container">
+        <div id="title-inner-container">
+            <a href="/"><img src="/logo.png" id="logo"></a>
+        </div>
+    </div>
+
+    <div id="title-container">
+        <div id="title-inner-container">
+            <div class="supertitle">{{ .Site.Params.Supertitle | safeHTML }}</div>
+            <div class="title"><a href="/">{{ .Site.Params.Title | safeHTML }}</a></div>
+            <div class="subtitle">{{ .Site.Params.Subtitle | safeHTML }}</div>
+        </div>
+    </div>
+
+    <br>
+
+    <div id="navigation">
+        <ul>
+        {{ range .Site.Menus.main }}
+            <li><strong><a href="{{ .URL }}">{{ .Name }}</a></strong></li>
+        {{ end }}
+      </ul>
+    </div>
+
+</section>
