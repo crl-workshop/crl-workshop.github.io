@@ -131,7 +131,7 @@ li {
     /* float: right; */
     text-align: center; 
     vertical-align: middle;
-    /* display: table; */
+    display: table;
     height: 200px;
     padding-top: 18px;
     box-sizing: border-box;
