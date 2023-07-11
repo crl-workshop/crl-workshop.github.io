@@ -15,11 +15,11 @@ html {
 
 body {
     background-color: white;
-	font-family: 'Lato', serif;
+	font-family: 'Arial', sans-serif;
     font-weight: 300;
 	font-size: 16px;
 	line-height: 160%;
-	max-width: 768px;
+	max-width: 900px;
 	margin: auto;
     padding-left: 20px;
     padding-right: 20px;
@@ -114,42 +114,44 @@ li {
 
 
 #logo-container {
-    width: 35%;
-    float: left;
+    width: 50%;
+    /* float: left; */
     height: 200px;
-    display: table;
+    /* display: table; */
+    margin:auto;
 }
 
 #logo-container-inner {
-    display: table-cell;
+    /* display: table-cell; */
     vertical-align: middle;
 }
 
 #title-container {
-    width: 60%;
-    float: right;
-    text-align: left;
+    width: 80%;
+    /* float: right; */
+    text-align: center; 
     vertical-align: middle;
-    display: table;
+    /* display: table; */
     height: 200px;
     padding-top: 18px;
     box-sizing: border-box;
+    margin: auto;
 }
 
 #title-inner-container {
-    display: table-cell;
+    /* display: table-cell; */
     vertical-align: middle;
 }
 
 #title-container .supertitle {
     margin: 0;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 #title-container .title {
     margin: 0;
-    font-size: 32px;
+    font-size: 42px;
     font-weight: 400;
 }
 
