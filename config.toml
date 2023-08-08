@@ -9,7 +9,7 @@ disableKinds = ["taxonomyTerm"]
 [params]
   supertitle = "NeurIPS 2023 Workshop on"
   title = "Causal Representation Learning"
-  subtitle = "December 15th or 16th"
+  subtitle = "December 15th 2023"
   author = "Sara Magliacane, Cian Eastwood, Yuki Asano, Claudia Shi, Atalanti Mastakouri, Sébastien Lachapelle, Caroline Uhler, Bernhard Schölkopf"
   description = "NeurIPS 2023 Workshop on Causal Representation Learning"
   keywords = ["workshop", "causal representation learning"]
