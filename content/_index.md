@@ -4,7 +4,7 @@ title: "Home"
 
 # Welcome!
 
-We will host a workshop on **Causal Representation Learning (CRL)** at [**NeurIPS 2023**](https://nips.cc/), in New Orleans, and held on **December 15th or 16th, 2023.**
+We will host a workshop on **Causal Representation Learning (CRL)** at [**NeurIPS 2023**](https://nips.cc/), in New Orleans, and held on **December 15th, 2023.**
 
 <a href="https://arxiv.org/abs/2102.11107"> <img src="logo_new.png" alt="CRL Overview Image" width="500px"/></a>
 
