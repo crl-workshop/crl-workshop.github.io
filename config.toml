@@ -40,23 +40,23 @@ disableKinds = ["taxonomyTerm"]
     name = "Organisers and Reviewers"
     url  = "/organisers-reviewers"
     weight = 5
-#[[menu.main]]
-#    name = "Accepted Papers"
-#    url  = "/accepted-papers"
-#    weight = 6
+[[menu.main]]
+    name = "Accepted Papers"
+    url  = "/accepted-papers"
+    weight = 6
 [[menu.main]]
     name = "Past Workshops"
     url  = "/past-workshops"
-    weight = 6
+    weight = 7
 [[menu.main]]
     name = "Schedule and Format"
     url  = "/schedule-format"
-    weight = 7
+    weight = 8
 [[menu.main]]
     name = "Invited Speakers and Panelists"
     url  = "/invited-speakers"
-    weight = 8
+    weight = 9
 # [[menu.main]]
 #     name = "Slides and Recording"
 #     url  = "/slides-recording"
-#     weight = 9
+#     weight = 10
