@@ -45,12 +45,12 @@ title: "Invited Speakers and Panelists"
         <td><a href="https://www.dsridhar.com/">Dhanya Sridhar</a></td>
     </div>
     <div class="person">
-        <img src="/efstratios.jpeg">
-        <a href="https://www.egavves.com/">Efstratios Gavves</a>
+        <img src="/victor.jpeg">
+        <a href="http://victorveitch.com/">Victor Veitch</a>
     </div>
     <div class="person">
-        <img src="/jason.jpeg">
-        <a href="https://jhartford.github.io/">Jason Hartford</a>
+        <img src="/francesco.jpeg">
+        <a href="https://jhartford.github.io/">Francesco Locatello</a>
     </div>
     <div class="person">
         <img src="/luigi.jpg">

@@ -104,6 +104,11 @@ title: "Schedule and Format"
 </table>
 
 
-## Poster Session
+## In-Person Posters
 
-All accepted papers will be presented either as a poster at the workshop (in person), or as a video (virtual). All posters should be put up in the morning (e.g., during the first break) and will remain up during the whole day (i.e., all posters are presented during both poster sessions).
+All posters should be put up in the morning (e.g., during the first break) and will remain up during the whole day (i.e., all posters are presented during both poster sessions).
+
+
+## Virtual Posters
+
+For papers being presented virtually, the poster PDFs and videos can be found [here](https://drive.google.com/drive/folders/1QgNx2bFTgUxqBs_jtdd7-58O0qJunwVjPqdskTlx8cUMxPLKPfYNo-1r8c5uWmkAeQZGjLGW?usp=sharing).
