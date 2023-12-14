@@ -49,8 +49,8 @@ title: "Invited Speakers and Panelists"
         <a href="http://victorveitch.com/">Victor Veitch</a>
     </div>
     <div class="person">
-        <img src="/francesco.jpeg">
-        <a href="https://jhartford.github.io/">Francesco Locatello</a>
+        <img src="/francesco.jpg">
+        <a href="https://www.francescolocatello.com/">Francesco Locatello</a>
     </div>
     <div class="person">
         <img src="/luigi.jpg">
